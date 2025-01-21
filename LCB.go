@@ -11,7 +11,7 @@ import (
 	"sync"
 )
 
-// Пример использования:
+// Пример использования
 // state := NewNewState[*T]()
 // state.Append(key, &element)
 // element := *state.GetElementByKey(key)
